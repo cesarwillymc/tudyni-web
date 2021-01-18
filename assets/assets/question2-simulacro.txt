@@ -1,0 +1,249 @@
+1. Un pequeño grupo de individuos recientemente regresó de una conferencia en la que aprendieron sobre DevOps. No pueden ponerse de acuerdo sobre cómo empezar. ¿Dónde debería comenzar una organización TI cuando adopta las prácticas de DevOps?
+A. Entender por qué existe la organización *
+B. Elegir las aplicaciones adecuadas para poner a prueba
+C. Desarrollar una estrategia a largo plazo
+D. Identificar herramientas y entrenamiento necesario
+
+2. ¿Qué significa Las Tres Vías?
+A. Una metodología para identificar y eliminar restricciones
+B. Los principios clave de DevOps *
+C. Un enfoque disciplinado y basado en datos para reducir el desperdicio
+D. Una metodología para realizar una mejora continua
+
+3. ¿Qué afirmación sobre Kanban es CORRECTA?
+A. Impulsa el trabajo a través de un proceso
+B. Requiere una herramienta de gestión de flujo de trabajo
+C. Lleva el trabajo a través de un proceso *
+D. Permite más trabajo en progreso
+
+4. ¿Qué es el Manifiesto Ágil?
+A. Valores y principios para guiar un enfoque iterativo y centrado en las personas para el desarrollo de software *
+B. Una metodología que se enfoca en asegurar que el software siempre está en un estado de liberación durante su ciclo de vida 
+C. Una declaración de los beneficios e intenciones de DevOps
+D. Intenciones y motivos de ser una empresa ágil
+
+5. Una organización está tratando de superar los desafíos de su cultura de silos heredada/legado de silos en donde los equipos han sido organizados de acuerdo a la experiencia en el tema. ¿De qué está sufriendo esta organización?
+A. Deuda cultural *
+B. Fatiga de cambio/ change fatigue 
+C. Cambio organizacional
+D. Poca confianza
+
+6. ¿Qué afirmación describe MEJOR fatiga de cambio/change fatigue?
+A. Resistencia agresiva
+B. Apatía *
+C. Señalar con el dedo
+D. Agotamiento
+
+7. Debido a una arquitectura estrechamente acoplada, una organización no puede aumentar la frecuencia de liberaciones para un servicio clave. Cuando ocurren las liberaciones, éstas son extremadamente difíciles y como resultado, la ventaja competitiva de la organización se está reduciendo. ¿Qué enfoque de desarrollo de software podría utilizarse para mejorar esta situación?
+A. Desarrollo orientado a las pruebas
+B. Contenedores
+C. Microservicios *
+D. Chaos Monkey
+
+8. Una organización acaba de completar el despliegue de una versión piloto utilizando las prácticas de DevOps y un “pipeline” de despliegue preliminar. ¿Qué métrica proporciona la mayor información para ayudarlos a mejorar continuamente?
+A. Tiempo Medio de Reparación (MTTR)
+B. Cambiar los tiempos de entrega y los tiempos de ciclo
+C. Compartir conocimientos 
+D. Todas las anteriores *
+
+9. ¿Qué afirmación acerca de los equipos de DevOps es MÁS preciso?
+A. Ellos son responsables de establecer las prácticas de DevOps en toda la empresa 
+B. Ellos son responsables del desarrollo del “pipeline” de despliegue
+C. Ellos deben ser un equipo fijo que trabaje en proyectos a largo plazo
+D. Ellos deben tener responsabilidades compartidas *
+
+
+10. Una organización recientemente llevó a cabo un “DevOpsDays” internamente. Durante una de las sesiones a espacio abierto, se sugirió que existieran más oportunidades para que los desarrolladores, los operadores, los de seguridad y otras áreas de TI interactúen y compartan. ¿Qué tipo de oportunidades debería considerar la organización?
+A. Hackathons (desarrollo colaborativo de aplicaciones)
+B. Simulaciones
+C. Oportunidades de inmersión
+D. Todas las anteriores *
+
+11. ¿Cuáles de los siguientes roles son stakeholders de DevOps?
+A. Testers de control de calidad (QA)
+B. Profesionales de soporte
+C. Proveedores
+D. Todas las anteriores *
+
+12. ¿Cuál NO es un objetivo de DevOps?
+A. Mejora de la productividad
+B. Menos lanzamientos de software, pero de mayor calidad *
+C. Menor riesgo en despliegues de software
+D. Mejora en la calidad del código 
+
+13. Una organización está implementando una aplicación perjudicial similar al “Simian Army”. ¿Cuál de las tres vías están introduciendo?
+A. La primera vía
+B. la segunda vía
+C. La tercera vía *
+D. El proyecto Fénix
+
+14. Una organización está buscando mejorar la colaboración en tiempo real entre los equipos. ¿Qué práctica de DevOps deberían considerar?
+A. Kanban
+B. ChatOps *
+C. Escalamiento
+D. Alertas
+
+
+15. ¿Cuál es una característica de una cultura DevOps?
+A. Comunicación unilateral efectiva de arriba hacia abajo
+B. Reconocer a los mejores y más brillantes por sus éxitos
+C. Visión compartida, metas e incentivos *
+D. Todas las anteriores 
+
+16. ¿Cuál de las siguientes opciones es la que MEJOR describe un “pipeline” de despliegue?
+A. Versión de automatización del proceso de gestión de cambios de ITSM
+B. Proceso automatizado para administrar los cambios de aplicaciones desde el registro (check-in) hasta la liberación *
+C. Colección de herramientas que permiten la integración continua
+D. Secuencia de actividades de valor agregado requeridas para diseñar, construir y entregar un producto 
+
+17. En una conferencia reciente, se le dijo a una directora de información (CIO) que su organización debería invertir mucho en “machine learning” (aprendizaje automático). De vuelta a la oficina, ella le pidió a uno de sus equipos de liderazgo superior que trabajaran en conjunto para preparar un caso de inversión. ¿Cuál de las siguientes opciones es poco probable que reciba un beneficio directo del uso de inteligencia artificial y que no debería incluirse en el caso de inversión?
+A. Predicción de escenarios futuros
+B. Encontrar nuevas tendencias y correlaciones
+C. Aumentar la contribución humana y elevar la productividad
+D. Construir una cultura libre de culpa *
+
+18. ¿Qué enunciado sobre el mejoramiento Kata es CORRECTO?
+A. Se enfoca en la meta a corto plazo 
+B. Es un proceso de 7 pasos
+C. Considera la visión o dirección de la organización a largo plazo *
+D. Debe realizarse según lo permita el tiempo
+
+19. En el contexto del desarrollo ágil de aplicaciones, ¿cuál de los siguientes NO es una responsabilidad de operaciones TI?
+A. Gestionar el “backlog” de productos *
+B. Definir los requerimientos no funcionales
+C. identificar los requerimientos de seguridad
+D. Aprovisionamiento de la infraestructura
+
+
+20. ¿Cuál de las siguientes es una característica de una cultura organizacional de alta confianza?
+A. Buen flujo de información
+B. Colaboración multifuncional
+C. Aprendizaje de los fracasos y de las nuevas ideas
+D. Todas las anteriores *
+
+21. ¿Por qué la cultura organizacional es un factor crítico de éxito para DevOps?
+A. Representa los valores y comportamientos que contribuyen al entorno social y psicológico único de una organización. *
+B. Representa un enfoque de comando y control para la prestación de servicios.
+C. Representa la forma en la que una organización está estructurada y organizada.
+D. Refleja la dirección estratégica de liderazgo del negocio. 
+
+22. ¿Cuál es el beneficio principal de las cadenas de herramientas DevOps?
+A. Automatizar los pasos en el “pipeline” de despliegue 
+B. Rastrear las rutas de las características desde el inicio hasta ahora
+C. Asegurar que el diseño arquitectónico soporta la interoperabilidad y la consistencia
+D. Todas las anteriores *
+
+23. ¿Cuál de los siguientes roles de DevOps NO ESTÁ AÚN bien definido?
+A. Ingeniero de Sistemas
+B. Arquitecto de automatización de la entrega continua
+C. Ingeniero DevOps *
+D. Aseguramiento de la experiencia
+
+24. Una organización está implementando DevOps. A los desarrolladores les preocupa que sus procesos de ITSM sean demasiado complejos, lentos y que no admitan los principios y prácticas de DevOps. ¿Qué marco de TI ayudará a la organización a inculcar un pensamiento ágil en los procesos existentes de ITSM?
+A. ITIL
+B. Ágil
+C. Gestión del servicio ágil *
+D. Lean 
+
+25. ¿Qué herramienta lean describe el flujo de información, materiales y trabajo a través de silos funcionales con un énfasis en la cuantificación y eliminación de desperdicios?
+A. Mejoramiento Kata
+B. Entrega Continua
+C. Kanban
+D. Mapa de flujo de valor *
+
+26. El “por qué” del negocio del Golden Circle en una organización representa:
+A. Propósito, causa y creencia *
+B. Productos y servicios
+C. Ventaja competitiva 
+D. Rentabilidad
+
+27. ¿Qué determina cuáles principios y prácticas de DevOps beneficiarán MEJOR a una organización?
+A. Estrategias y objetivos de negocio. *
+B. El compromiso de los primeros adoptantes. 
+C. La disponibilidad de herramientas avanzadas.
+D. Capacidades y recursos de TI.
+
+28. ¿La teoría de las restricciones soporta a cuál de las tres vías?
+A. La Primera Vía *
+B. La Segunda Vía
+C. La Tercera Vía
+D. Todas las anteriores
+
+29. ¿Cuál de las siguientes opciones se requiere para la integración continua?
+A. Pruebas automatizadas unitarias, de integración y aceptación *
+B. Gestión automatizada de liberaciones 
+C. “Pipeline” de entrega continua
+D. “Pipeline” de despliegue
+
+30. ¿Qué práctica de DevOps se basa en un “pipeline” de despliegue que permite lanzamientos push-button bajo demanda?
+A. Pruebas Continuas
+B. Integración Continua
+C. DevSecOps
+D. Entrega Continua *
+
+31. ¿Cuál de los siguientes procesos de ITSM es el más importante para DevOps?
+A. Gestión de cambios, lanzamiento y servicio de activos y gestión de la configuración
+B. Gestión de Incidentes, Problemas y Eventos
+C. Gestión de la demanda, capacidad y seguridad de la información
+D. Todas las anteriores *
+
+32. Una organización ha identificado que tiene una cultura de culpa y temor, donde los incidentes no se valoran y el fracaso no se considera una oportunidad de aprendizaje. Hay muchos puntos únicos de falla y los empleados sufren a diario como resultado de la fragilidad de los sistemas, teniendo que soportar difíciles “war-rooms” durante cortes frecuentes. ¿Qué debe tener en cuenta esta organización para mejorar la situación?
+A. Cultura de seguridad *
+B. Desarrollo ágil de software
+C. Construir una cadena de herramientas DevOps
+D. Ingeniería de resiliencia del sitio 
+
+33. Cuando se intenta realizar un cambio importante, ¿quién debería estar comprometido en las actividades de planificación y servir como agente de cambio?
+A. Los primeros en adoptar *
+B. Los opositores
+C. La gerencia
+D. Las personas que necesitan pruebas
+
+34. ¿Cuál de las siguientes opciones NO es un elemento típico en una cadena de herramientas DevOps?
+A. Herramientas de monitoreo 
+B. Automatización de pruebas
+C. Control de versiones
+D. Sistemas de gestión de incidentes de centros de servicio *
+
+35. ¿Cuál de los siguientes es un factor fundamental del éxito para DevOps?
+A. Establecimiento de una cadena de herramientas
+B. Contratación de ingenieros de DevOps
+C. Compromiso de la dirección con el cambio cultural *
+D. Automatizar todo
+
+36. ¿Cuál de los siguientes no es un objetivo del liderazgo de DevOps?
+A. Ayudar a mejorar el autodiagnóstico
+B. Controlar y evaluar trabajadores utilizando métricas *
+C. Inculcar la superación personal
+D. Traducir los descubrimientos locales a mejoras globales
+
+37. ¿Cuál de Las Tres Vías fomenta la revisión por pares de los cambios de producción?
+A. La Primera Vía
+B. La Segunda Vía *
+C. La Tercera Vía
+D. Todas las anteriores
+
+38. ¿Qué representa el concepto de shift left?
+A. Incorporación de calidad en el proceso de desarrollo de software a través de pruebas tempranas y continuas. *
+B. Pasar paquetes de liberación a operaciones de TI después de completar un batch de desarrollo.
+C. Realización de pruebas aleatorias en el código comprometido con un servidor de integración continua.
+D. Hacer más pruebas en producción después del despliegue.
+
+39. Una organización está luchando con el tiempo adicional que tardan las revisiones de seguridad después de que un equipo ágil complete un “Sprint”. El retraso está afectando su capacidad de liberación. Quieren incluir más pruebas de seguridad como parte de su enfoque de prueba de "shift left". ¿Qué práctica de DevOps necesitarían?
+A. ChatOps
+B. Pruebas continuas
+C. DevSecOps *
+D. Alertas de vulnerabilidad
+
+40. Una organización se está preparando para desplegar automáticamente cada liberación que pase las pruebas de unidad automatizadas, de integración, de aceptación del usuario y las no funcionales. ¿Qué práctica de DevOps están aplicando?
+A. Entrega Continua
+B. Pruebas Continuas
+C. Despliegue Continuo *
+D. Integración Continua
+
+
+
+
+
+
+

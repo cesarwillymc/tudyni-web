@@ -1,0 +1,241 @@
+1. ¿Cuál de los siguientes es un buen ejemplo de una métrica DevOps utilizada para medir el flujo de La Primera Vía?
+A. Creación/Evaluación de pruebas
+B. Registro de hipótesis
+C. Tasa de falla de cambios
+D. Tiempo del ciclo de cambios *
+
+2. De acuerdo con el informe Accelerate State of DevOps, las organizaciones de alta producción o Elite ...
+A. Implementan con más frecuencia *
+B. Tienen una tasa de falla de cambios más alta
+C. Tienen un MTTR más largo
+D. Extienden el tiempo de entrega desde la confirmación hasta la implementación
+
+3. ¿Cuál de las siguientes afirmaciones se relaciona correctamente con La Tercera Vía?
+A. Comprender y aumentar el flujo de trabajo.
+B. Crear una cultura que fomente la experimentación. *
+C. Crear cortos circuitos de retroalimentación o Feedback para la mejora continua
+D. Comprender que la repetición no conduce al dominio
+
+4. Un equipo se ha dedicado a trabajar en su producto durante más de dos años y, en ese tiempo, ha tratado de controlar el flujo de trabajo y ha logrado una cadencia predecible. También han tenido la oportunidad de pagar una gran cantidad de deuda técnica y han logrado un nivel de estabilidad que es una mejora significativa en lo que han visto antes. Están interesados en incorporar más antifragilidad en su producto para ayudarlos a recuperarse de fallas inevitables. ¿Con cuál de las siguientes herramientas podrían considerar experimentar?
+A. Gestión de flujo de valor 
+B. Pruebas automatizadas de aceptación del usuario
+C. Ingeniería del caos *
+D. Registros de producción
+
+5. ¿Cuál de los siguientes es un valor subrayado en el Manifiesto Ágil?
+A. Procesos y herramientas sobre individuos e interacciones. 
+B. Documentación completa sobre el software de trabajo.
+C. Colaboración del cliente sobre la negociación del contrato. *
+D. Seguir un plan sobre responder al cambio
+
+6. ¿Cómo mejora DevOps la agilidad?
+A. Al crear más silos
+B. A través de restricciones crecientes
+C. Aplicando principios ágiles tanto a Dev como a Ops *
+D. Implementando más rápido con más errores
+
+7. ¿Cuál de los siguientes NO es parte del Kata de mejora?
+A. Planificar los pasos finales *
+B. Captar la condición actual.
+C. PDCA a la siguiente condición objetivo
+D. Entender la dirección a largo plazo.
+
+8. El jefe de Sam acaba de regresar de una conferencia de Agile y DevOps y le ha pedido a Sam que dirija un programa de cambio de DevOps y comience creando un equipo de DevOps. ¿Por qué Sam debe tener cuidado al hacer esto?
+A. Existe el riesgo de que el equipo se convierta en otro silo. *
+B. Este equipo puede evangelizar DevOps en toda la organización.
+C. La gente entenderá que DevOps es el trabajo de todos
+D. Le da la oportunidad de garantizar que se compartan las responsabilidades.
+
+9. Suresh está reuniendo un nuevo equipo autónomo y multifuncional que se dedicará a un producto de larga duración. Él está sacando a los miembros del equipo de varios departamentos donde cada uno tiene la responsabilidad de diferentes procesos. Es la primera vez que este equipo trabaja en conjunto. ¿Cuál es una buena manera para que el equipo colabore visualmente inicialmente en el ciclo de vida de extremo a extremo de su producto?
+A. Ejecutar un hackathon interdepartamental
+B. Organizar un foro de clientes
+C. Usar ChatOps para monitorear el desempeño del producto
+D. Realizar un ejercicio de mapeo de flujo de valor *
+
+10. ¿Cuál de las siguientes es una métrica que se ocupa principalmente de la estabilidad?
+A. Tiempo medio de entrega de cambios
+B. Tasa de éxito del despliegue 
+C. Tiempo medio para recuperarse *
+D. Frecuencia de implementación
+
+11. Terri ha completado un ejercicio de mapeo de flujo de valor con su equipo de producto y han identificado una serie de restricciones, una de las cuales está en torno a la capacidad del equipo de seguridad para responder de manera oportuna a sus solicitudes. ¿Cuál de las siguientes opciones debe buscar Terri para las prácticas que ayudarán a su equipo a aliviar esta restricción?
+A. Kanban
+B. Ingeniería de confiabilidad del sitio/ Site Reliability Engineering 
+C. Ingeniería del caos
+D. DevSecOps *
+
+12. ¿Cuál NO es un factor que se correlaciona positivamente con el desempeño organizacional?
+A. Desarrollo basado en Trunk
+B. Proceso de cambio de peso pesado *
+C. Arquitectura débilmente acoplada 
+D. Cloud
+
+13. ¿Cuál de los siguientes es un objetivo de La Primera Vía?
+A. Aumentar el flujo de trabajo *
+B. Permitir que los defectos conocidos pasen aguas abajo
+C. Permitir la optimización local para causar degradación global
+D. Comprender y agregar restricciones
+
+14. El equipo de Thierry está conformado por trabajadores remotos de su propia organización y su organización asociada en la India. Es raro que más de dos de ellos estén en el mismo lugar al mismo tiempo y recientemente han experimentado una serie de problemas de estabilidad que también han requerido ayuda adicional de otro equipo de infraestructura. Les resulta cada vez más difícil colaborar a través de la teleconferencia, ya que no pueden ver qué están haciendo los demás y han tenido que esperar para saber qué impacto han tenido las consultas y los cambios en sus sistemas. ¿Qué deberían considerar usar para gestionar sus incidentes de manera más efectiva?
+A. Herramientas de gestión del rendimiento de aplicaciones
+B. ChatOps *
+C. Escalamiento
+D. Jenkins
+
+15. ¿Cuál de los siguientes puede apoyar la automatización en DevOps?
+A. Tiempos de entrega más rápidos
+B. Despliegues menos turbulentos
+C. Recuperación más rápida
+D. Todo lo anterior *
+
+"""
+16. ¿Cuál de las siguientes afirmaciones es correcta acerca de las cadenas de herramientas DevOps?
+A. Las herramientas deben ser del mismo proveedor.
+B. Se construyen alrededor de ambientes de fuente cerrada solamente
+C. No requieren un diseño arquitectónico para garantizar la interoperabilidad
+D. Las herramientas deben estar conectadas, generalmente a través de API *
+""""
+
+17. Bekka es la directora de una organización de consultoría. Está decepcionada de que sus consultores parezcan menos interesados en la marca y el propósito de su organización que las empresas a las que consultan en su nombre. Ella los invitó a una cena especial para hablar sobre ello, pero la mayoría lo rechazó, citando compromisos familiares o desafíos de viaje. Ella detesta establecer algo durante las horas de trabajo porque quiere que salgan a trabajar con cargo. ¿Qué está creando Bekka en su organización?
+A. Deuda técnica
+B. Deuda cultural *
+C. Alta confianza
+D. Colaboración muy ligada
+
+18. ¿Cuál de las siguientes es una característica de una cultura DevOps?
+A. Orientado a tareas
+B. Contenido
+C. Resistente
+D. Alto nivel de confianza *
+
+19. David descubre que cada vez que se reúne con Robert, tienen una discusión sobre lo que debe hacer por su equipo. Él sabe que ambos quieren lo mejor para su equipo y puede ver que las tensiones entre ellos están molestando a otros miembros del equipo, hasta el punto de que dejan de involucrarse en las conversaciones de mejora. ¿Qué podría usar David para ayudarlo a comprender cómo trabajar mejor con Robert?
+A. El instrumento del modo de conflicto de Thomas-Kilmann *
+B. Las tres vías
+C. La curva de cambio de Kübler-Ross
+D. Un tablero Kanban 
+
+20. ¿Cuál de las siguientes es una razón por la que DevOps es importante ahora?
+A. Las empresas tienen competidores jóvenes y ágiles.
+B. Los consumidores tienen mentalidades y expectativas de "aplicación"
+C. El tiempo para la comercialización/ Time to value debe acelerarse
+D. Todo lo anterior *
+
+21. ¿Cuál de las siguientes afirmaciones es verdadera sobre La teoría de las restricciones?
+A. Cada proceso tiene al menos una restricción *
+B. El proceso puede exceder la capacidad de sus restricciones.
+C. El proceso puede ser más exitoso que su eslabón más débil.
+D. Mejorar las restricciones es la única forma de mejorar
+
+22. ¿Cuál de los siguientes NO es una restricción común?
+A. Arquitectura débilmente acoplada *
+B. Análisis o evaluación de seguridad
+C. Prueba de configuración y ejecución
+D. Creación del entorno.
+
+23. ¿Cuál de los siguientes es un ejemplo de un ciclo de retroalimentación/Feedback?
+A. Tableros
+B. Rotación de On Call
+C. Registros de producción 
+D. Todas las anteriores *
+
+24. Durante un ejercicio de mapeo de flujo de valor, Sandra y su equipo identificaron que su proceso de cambio, usando múltiples paneles asesores de cambio, está interrumpiendo y ralentizando su flujo. También han leído el último Informe sobre el estado de DevOps y han observado que los procesos de cambio de peso pesado están correlacionados negativamente con el rendimiento de la organización. ¿Qué podrían practicar para que su proceso de cambio sea más liviano?
+A. ITIL
+B. Agile
+C. Agile service management *
+D. Lean
+
+25. ¿Por qué se rompen menos cosas en la producción cuando se pone en práctica "shift left"?
+A. Hacer todo por adelantado conduce a menos trabajo más tarde
+B. Una planificación exhaustiva significa que podemos estar seguros de haber pensado en todo
+C. Los problemas se detectan y resuelven antes *
+D. No lo hacen; necesitamos " shift right"
+
+26. ¿Cuál de los siguientes es un ejemplo de "Transporte de desperdicio o waste"?
+A. Fallos y errores conocidos
+B. Múltiples traslados, correos electrónicos o reuniones *
+C. Software o infraestructura no utilizados
+D. Ingeniería excesiva o Over- engineering
+
+27. ¿Cuál de la siguientes afirmaciones es correcta acerca del cambio cultural?
+A. No se puede cambiar a las personas; solo pueden cambiar ellos mismos *
+B. No se necesita involucrar a los stakeholders
+C. No costará tanto como crees que costará
+D. Las personas aceptan el cambio incluso cuando no participan
+
+28. Manuel ha estado leyendo sobre DevOps y piensa que tiene el potencial de cambiar las formas de trabajar en su organización para mejor. Ha comenzado a hablar con la gente al respecto y descubrió que algunas personas están interesadas. Está pensando en preparar un almuerzo y aprender. ¿Por qué debería hacer esto?
+A. Podría atraer la atención del CEO
+B. Es probable que aparezcan otros innovadores y primeros usuarios *
+C. No debería molestarse, nadie estará interesado
+D. Si la mayoría asiste, sabrá que DevOps ya está hecho
+
+29. Un líder transformacional ...
+A. Acepta el status quo.
+B. Critica al equipo
+C. Comandos y regaños
+D. Comprende la dirección organizacional *
+
+30. ¿Qué deberíamos medir cuando estamos usando los principios y prácticas de DevOps para mejorar el desempeño organizacional?
+A. Madurez
+B. Rendimiento individual
+C. Productividad
+D. Valor *
+
+31. ¿Qué se debería hacer cuando está mejorando la automatización?
+A. Automatizar todos los procesos como lo están haciendo 
+B. Arquitecto primero *
+C. Construir su cadena de herramientas y quedarse con ella
+D. No preocuparse por el monitoreo
+
+32. ¿Cuáles son buenas maneras de potenciar nuevos comportamientos?
+A. Hackathons
+B. Idea de estilo de redes sociales y compartir historias
+C. Comunidades de práctica
+D. Todo lo anterior *
+
+33. ¿Cuál de los siguientes NO es una característica de la cultura de seguridad?
+A. Postmortems sin culpa
+B. Valoración de incidentes
+C. Adoptar SPOFs *
+D. El cordón Andon
+
+34. ¿Por qué es útil Kanban?
+A. Permite un trabajo en progreso ilimitado
+B. Empuja el trabajo a los equipos.
+C. Maximiza el desperdicio y el tiempo de inactividad.
+D. Hace visible el trabajo *
+
+35. Cuando se optimiza la estabilidad utilizando los principios y prácticas de DevOps, ¿Qué se sacrifica?
+A. Velocidad
+B. Calidad
+C. Nada *
+D. Tu gente
+
+36. Más que nada, DevOps es ...
+A. Un movimiento cultural *
+B. Sobre automatizar todas las cosas
+C. Simplemente una extensión de ágil
+D. Simplemente entender y ejecutar
+
+37. ¿Cuál no es una de las cuatro métricas clave en DevOps?
+A. Frecuencia de implementación
+B. Plazo de ejecución desde el compromiso hasta la prueba *
+C. Tiempo de recuperación de incidentes.
+D. Cambiar tasa de falla
+
+38. Nik ha estado utilizando prácticas ágiles para mejorar el flujo de trabajo a través de su equipo y ha acercado a las personas de desarrollo y operaciones de TI. Usando una combinación de capacidades de entrega continua y monitoreo, creó breves bucles de retroalimentación de los clientes a su equipo. Ahora quiere acelerar la innovación. ¿Cuál de Las Tres Vías debe mirar?
+A. Primera Vía
+B. Segunda Vía
+C. Tercera Vía *
+D. Todas las vías
+
+39. Entrega continua ...
+A. Proporciona comentarios rápidos y automatizados sobre la disponibilidad de producción de un sistema *
+B. Prioriza trabajar en nuevas características sobre mantener el software liberable / desplegable
+C. Se basa en un Pipeline de implementación que se implementa automáticamente a pedido
+D. Aumenta el costo, el tiempo y el riesgo de entregar cambios incrementales
+
+40. Jon ha estado impulsando la evolución de DevOps de su organización hacia adelante por algún tiempo y se ha centrado en consolidar las ganancias para producir más cambios. ¿Qué no debe hacer?
+A. Comunicar éxitos
+B. Guardar silencio sobre fallas *
+C. Invertir continuamente en educación
+D. Poner a disposición artefactos reutilizables

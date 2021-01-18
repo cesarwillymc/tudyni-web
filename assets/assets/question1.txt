@@ -1,0 +1,250 @@
+¿Qué significa CALMS?
+Culture, Automation, Lean, Management, Sharing
+Collaboration, Automation, Lean, Metrics, Sharing
+Culture, Automation, Lean, Measurement, Sharing *
+Continuous Integration, Automation, Lean, Measurement, Sharing
+
+¿Quién acuñó por primera vez la palabra DevOps?
+Gene Kim
+Patrick Debois *
+John Willis
+Damon Edwards
+
+¿Quién se convirtió en socio de DORA para el Accelerate State of DevOps Reports en el 2018?
+Puppet
+Chef
+Google *
+Amazon Web Services
+
+¿Qué porcentaje predijo Gartner en 2015, que las organizaciones de Global 2000 tendrian a DevOps como estrategia principal?
+100%
+50%
+20% *
+10%
+
+¿Quién es el responsable de The Golden Circle (Su “Por qué” organizacional)?
+Simon Sinek *
+Alan Alter
+Ron van Kemenade
+Jez Humble
+
+
+¿Cuál de las tres vías hace referencia a feedback loops/ circuitos de retroalimentación como los resultados de las pruebas automatizadas?
+Primera via
+Segunda via *
+Tercera via
+Todas las vias
+
+¿Cómo clasifican los principios de DevOps la amenaza y el fracaso?
+Como una oportunidad de aprendizaje *
+Como algo que hay que ignorar
+Que debe ser penalizado
+Que no podemos evitario
+
+¿Cuál es el pre-requisito para el dominio?
+Talento y capacidad
+Entrenamiento y estudio
+Orientacion y supervision
+Repetición y practica *
+
+Nosotros debemos:
+Nunca pasar por alto un error ya conocido *
+Buscar una visión general del sistema
+Permitir que la optimización local disminuya la global.
+Optimizar todos los vinculos en un proceso:
+
+¿Qué empresa creó Chaos Monkey y lo hizo un recurso abierto?
+Facebook
+Etsy
+Googie
+Netflix *
+
+
+¿Cuál de los siguientes no es necesario para la integración continua?
+Los desarrolladores hacen commit al código para trunk/al menos un dominio diario
+Lanzamientos Push button *
+Pruebas unitarias, integración y aceptación del usuario
+Normas de codificación consistentes
+
+¿Cuál de las siguientes no es una prueba no funcional?
+Rendimiento
+Unitaria *
+Seguridad
+Capacidad
+
+¿Cuantos Site Reliability Engineers tiene Google?
+15
+150
+1.500 *
+15.000
+
+¿Cuál de estos no es una plataforma de ChatOps?
+Jira *
+Slack
+Stride
+Teams
+
+¿Cuál de las siguientes afirmaciones sobre Kanban, no es cierta?
+Hace que el trabajo sea visible
+Impulsa el trabajo *
+Aplica limites WIP
+Mide la velocidad del equipo
+
+
+En el manifiesto Agile, le damos mas importancia al trabajo de software que a:
+Procesos y herramientas
+Documentacién comprensiva *
+Negociaciones contractuales
+Seguir un plan
+
+¿Cuál de estos no es un modelo de procesos ITSM?
+Modelo de cambio
+Modelo de lanzamiento
+Modelo de incidente
+Modelo de desarrollo *
+
+¿Cuál de estos no es una herramienta Lean?
+Pensamiento A5 *
+Mapa de fiujo de valor
+Mejoramiento Kata
+Kanban
+
+¿Cuál es el primer paso del Mejoramiento Kata?
+Comprender la condicién actual
+Establecer la siguiente condicién dereada
+Plan Do Check Act (PDCA)
+Entender la visión o dirección a largo plazo *
+
+¿Quién escribió el libro de Organizaciones de aprendizaje?
+Peter Senge *
+Jonathan Smart
+Henrik Kniberg
+Gene Kim
+
+
+¿Quién dijo: "La cultura desayuna estrategia"?
+Peter Drucker *
+Gene Kim
+Damon Edwards
+Bill Gates
+
+¿Qué no ze puede cambiar?
+Comportamiento
+Habitos
+Cultura *
+Sistemas
+
+¿Cuál es una caracteristica de la cultura Devops?
+Culpa
+Desconfianza
+Miedo
+Coraje *
+
+¿Cuál de estos sucede en una cultura Patológica?
+Los mensajeros son atacados *
+Las responsabilidades son compartidas.
+fracase causa indagacién.
+La innovacién es implementada
+
+¿Qué no hizo Target?
+Ejecutar hackathons
+Configurar Dojos
+Obtener permiso *
+Construir empatia
+
+
+DevOps no se trata de automatización, al igual que la astronomia no se trata de...
+Telescopios *
+Estrellas
+El sol
+Naves espaciales
+
+¿Quién es responsable de la tabla periédica de heramientas DevOps?
+Chef
+Google
+Revolucion de TI
+Xebia Labs *
+
+Fannie Mae redujo el tiempo de despliegue a 45 minutos que anteriormente era de:
+3 horas
+30 horas
+3 dias *
+30 dias 
+
+¿Quién esta mejor situado para proporcionar las cadenas de heramientas DevOps como un servicio compartido?
+Desarrollo
+La empresa
+Infosec
+Operaciones TI *
+
+Patrick Debois dijo: Tus heramientas por si solas no te haran ser...
+Rentable
+Competitivo
+Exitoso *
+Un lider del mercado
+
+
+¿Qué construye la evidencia?
+Esfuerzo
+Desconfianza
+Confianza *
+Velocidad
+
+¿A qué se refiere en detalle la investigación Accelerate?
+Los informes anuales de DevSecOps
+Informe de estado de DevOps *
+Los informes de los mejores trabajos en América
+Informes de heramientas DevOps más populares,
+
+Peter Drucker dijo: “Sino puedes medir, no puedes ..”
+Verlo
+Contarlo
+Mejorarlo *
+Sentirlo
+
+¿Cual de estos debe medir?
+Madurez
+Capacidad
+Resultados *
+Lineas de código
+
+¿Cómo se calcula el tiempo de espera?
+Tiempo de entrega menos Duración del proceso *
+Duración del proceso menos Tiempo de entrega
+Frecuencia de ciclo menos Velocidad
+Velocidad dividido por Duración del proceso
+
+
+
+¿Quién ofrece lofts como una experiencia de inmersion?
+Amazon *
+IBM
+Google
+Puppet
+
+¿Qué es un Ignite en el contexto de DevOps Days?
+Una nota clave
+Una presentación de 30 minutos
+Una sesión sobre un tema de 5 minutos *
+Una sesion breakout
+
+¿Porqué Disney continua haciendo más cosas? Porque ellos son:
+Impacientes
+Competitivos
+Curiosos *
+Valientes
+
+¿Cuál es la estructura ideal de un equipo DevOps?
+Matriz
+Orientado al mercado
+No hay una *
+Multifuncionales
+
+¿Según Gartner, Cuál es el reto mas común ara las organizaciones que adoptan los principios de DevOps?
+El personal *
+Información
+Procesos
+Tecnología
+
+
+
